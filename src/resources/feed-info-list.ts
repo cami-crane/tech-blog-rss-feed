@@ -542,7 +542,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['レコチョク', 'https://techblog.recochoku.jp/feed/atom'],
   ['レバレジーズ', 'https://tech.leverages.jp/feed'],
   ['レブコム', 'https://tech.revcomm.co.jp/feed'],
-  ['レンジャーシステムズ', 'https://www.ranger-systems.co.jp/ranger-blog/archives/category/tech/feed'],
   ['レンティオ', 'https://zenn.dev/rentio/feed'],
   ['ロコガイド', 'https://techblog.locoguide.co.jp/feed'],
   ['ロジカルビート', 'https://logicalbeat.jp/blog/feed/'],
