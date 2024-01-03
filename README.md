@@ -8,18 +8,7 @@ https://cami-crane.github.io/tech-blog-rss-feed/
 
 ## サイト追加の方針
 企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。  
-ただし、以下に該当するものは検討します。
-
-- その企業の取り組みでないものが多く投稿される可能性があるブログ
-  - テック系メディア
-  - Qiita Organization や Zenn Publication など、組織として投稿しているかの線引が曖昧なものは、投稿内容を見て検討します
-- 記事が自社製品の紹介のみ
-- 日本語以外の言語で書かれている記事が多いブログ
-
-逆に、以下はテックブログと判断して追加しています。
-
-- [Zenn](https://zenn.dev/), [note](https://note.com/), [Medium](https://medium.com/) などの企業系テックブログ
-- 企業系ブログのテクノロジーカテゴリ
+所属企業で運営してるため、記事の内容は勝手に変更されることがあります。
 
 ## サイトの追加方法
 [src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
