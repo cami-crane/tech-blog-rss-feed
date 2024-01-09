@@ -1,6 +1,7 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS
-企業のテックブログの更新をまとめたRSSフィードを配信しています。  
-記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
+# <img src="src/site/images/icon-transparent.png" height=26> 必要の部屋 ~企業テックブログRSS~
+必要の部屋は企業のテックブログの更新をまとめたRSSフィードを配信しています。  
+記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的とし、slackと連携することを前提としています。  
+あなたにとって必要な情報が得られますように。
 
 https://cami-crane.github.io/tech-blog-rss-feed/  
 
@@ -8,10 +9,8 @@ https://cami-crane.github.io/tech-blog-rss-feed/
 
 ## サイト追加の方針
 企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。  
-所属企業で運営してるため、記事の内容は勝手に変更されることがあります。
-
-## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
+所属企業で運営してるため、記事の内容は勝手に変更されることがあります。  
+需要があればフロントエンドやバックエンド、デザインなどの領域に特化したまとめフィードを作成する予定です。
 
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。

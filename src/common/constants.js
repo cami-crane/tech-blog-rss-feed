@@ -5,12 +5,12 @@ module.exports = {
   // サイト設定
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
-  siteTitle: '企業テックブログRSS',
+  siteTitle: '必要の部屋',
   siteDescription:
     '企業のテックブログの更新をまとめたRSSフィードを配信しています。記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。',
 
   // フィード設定
-  feedTitle: '企業テックブログRSS',
+  feedTitle: '必要の部屋',
   feedDescription: '企業のテックブログの更新をまとめたRSSフィード',
   feedLanguage: 'ja',
   feedCopyright: 'cami-crane/tech-blog-rss-feed',
