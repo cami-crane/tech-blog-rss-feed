@@ -1,4 +1,4 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 必要の部屋 〜企業テックブログRSS
+# <img src="src/site/images/icon-transparent.png" height=26> 必要の部屋 〜企業テックブログRSS〜
 必要の部屋は企業のテックブログの更新をまとめたRSSフィードを配信しています。  
 記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的とし、slackと連携することを前提としています。  
 あなたにとって必要な情報が得られますように。
