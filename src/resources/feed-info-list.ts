@@ -32,6 +32,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Acroquest Technology', 'https://acro-engineer.hatenablog.com/feed'],
   ['Adways', 'https://blog.engineer.adways.net/feed'],
   ['Aiming', 'https://developer.aiming-inc.com/feed/'],
+  ['Appirits', 'https://spirits.appirits.com/feed/'],
   ['AppBrew', 'https://tech.appbrew.io/feed'],
   ['Assured', 'https://tech.assured.jp/feed'],
   ['BABYJOB', 'https://zenn.dev/p/babyjob/feed', [FLAG_ZENN_PUBLICATION]],
